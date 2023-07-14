@@ -2,7 +2,7 @@
 provided by the News API service that is used to authenticate and authorize the user to access the
 API. `url` is the base URL for the News API service that is used to fetch news articles. The `q=`
 parameter in the URL is used to specify the search query for the news articles. */
-const API_KEY = "1d3a0eefa97b499d8fbc4ee93eeb40b7";
+const API_KEY = "0d49a421d862469fa8732c24f4ef8af3";
 const url = "https://newsapi.org/v2/everything?q=";
 
 
